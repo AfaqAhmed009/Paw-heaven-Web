@@ -1,0 +1,2 @@
+PAW HEAVEN 
+PAW HEAVEN is a modern pet care and services web application built using Lovable, an AI-powered platform for rapidly generating full-stack web applications. It is designed to provide an all-in-one solution for pet owners, offering services such as pet grooming, veterinary care, training, boarding, and a pet essentials store. The system focuses on making pet management simple and convenient through a clean and user-friendly interface, allowing users to easily explore services, make bookings, and access pet-related resources in one place.
